@@ -1,5 +1,3 @@
-# SGNN
-
 # Scanner-Generalization Neural Networks (*SGNN*)
 * This is the codes for training *SGNN* implemented Python3 with PyTorch framework. It is inspired by domain-adaptation [1] with combining weight sparsity control [2] for DNN.
 * Task of the SGNN is to predict individual's *p*-factor based on vectorized RSFC inputs.
